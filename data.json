@@ -1,14 +1,14 @@
 [
   {
     "full_name": "nestjs/swagger",
-    "stargazers_count": 808,
+    "stargazers_count": 811,
     "open_issues_count": 66,
-    "forks_count": 208
+    "forks_count": 209
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 37499,
-    "open_issues_count": 119,
-    "forks_count": 3664
+    "stargazers_count": 37553,
+    "open_issues_count": 117,
+    "forks_count": 3672
   }
 ]
